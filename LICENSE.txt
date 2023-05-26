@@ -1,0 +1,5 @@
+Program: DRAM Controller
+Author: Jacob Simons
+Date Published: October 26, 2022
+
+All rights reserved.
